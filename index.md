@@ -1,4 +1,5 @@
 Ringtone Cutter Privacy Policy
+
 What information do we collect?
 We didn't collect any information outside the app.
 
